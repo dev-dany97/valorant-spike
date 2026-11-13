@@ -30,9 +30,11 @@ You can see it in action on my [setup page](https://d-mohles.de/setup).
 
 ## Video
 
-A short clip of the Spike in my PC with the LEDs and sounds. Click the picture to play it:
+The Spike in my PC: first the plant, then the defuse.
 
-<a href="docs/video/spike.mp4"><img src="docs/images/spike-video-poster.jpg" width="300" alt="Video of the Spike in my PC"></a>
+<img src="docs/images/spike.gif" width="240" alt="The Spike in my PC being planted and defused">
+
+The full clip with sound is here: [spike.mp4](https://github.com/dev-dany97/valorant-spike/raw/main/docs/video/spike.mp4) (60 s, 11.5 MB, opens as a download).
 
 ## How it works
 
