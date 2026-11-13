@@ -28,6 +28,12 @@ In Valorant the Spike is the bomb that one team plants and the other team has to
 
 You can see it in action on my [setup page](https://d-mohles.de/setup).
 
+## Video
+
+A short clip of the Spike in my PC with the LEDs and sounds. Click the picture to play it:
+
+<a href="docs/video/spike.mp4"><img src="docs/images/spike-video-poster.jpg" width="300" alt="Video of the Spike in my PC"></a>
+
 ## How it works
 
 ```
